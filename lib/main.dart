@@ -7,7 +7,6 @@ import 'package:soug/widgets/MiniWidgets.dart';
 import 'colors.dart';
 
 void main() => runApp(MyApp());
-
 class MyApp extends StatefulWidget {
   @override
   _MyAppState createState() => _MyAppState();
@@ -44,7 +43,7 @@ class _MyHomePageState extends State<MyHomePage> {
   List<Image> sliders = [];
   List<String> spinnerItems = [
     'كل المدن',
-    'One',
+    'makka',
     'Two',
     'Three',
     'Four',
